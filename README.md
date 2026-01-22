@@ -9,3 +9,14 @@
 - React Navigation
 
 ## Запуск проекта
+git clone https://github.com/master-khan1928/Lifescore_app.git
+cd Lifescore_app
+npm install
+npm start
+
+text
+
+## Команда
+- [Разработчик 1] - UI/Компоненты
+- [Разработчик 2] - Логика/Состояние  
+- [Разработчик 3] - Навигация/Экраны
